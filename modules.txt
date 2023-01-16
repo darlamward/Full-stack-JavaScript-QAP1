@@ -1,3 +1,7 @@
+Darla Ward
+QAP 1 - Full-stack JavaScript
+Completed January 16, 2023
+
 HTTP Module : Allows Node.js to transfer data over the Hyper Text Transfer Protocol (HTTP). To use this module,
     you must require the module in your file(var http = require('http');).
 
