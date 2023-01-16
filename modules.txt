@@ -1,0 +1,8 @@
+HTTP Module : Allows Node.js to transfer data over the Hyper Text Transfer Protocol (HTTP). To use this module,
+    you must require the module in your file(var http = require('http');).
+
+File System Module : Enables interaction with the file system on your computer. To use this module,
+    you must require the module in your file(var fs = require('fs');).
+
+URL Module : Splits a web address up into its readable parts or provides utilities for URL parsing. To use this module,
+    you must require the module in your file(var http = require('url');).
